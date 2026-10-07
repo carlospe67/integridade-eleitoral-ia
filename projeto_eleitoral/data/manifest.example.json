@@ -1,0 +1,16 @@
+{
+  "dataset_name": "",
+  "source": "",
+  "source_url": "",
+  "election": "",
+  "geographic_scope": "",
+  "aggregation_level": "section",
+  "obtained_at": "",
+  "storage_uri": "",
+  "file_format": "",
+  "size_bytes": null,
+  "sha256": "",
+  "license_or_terms": "",
+  "columns": [],
+  "notes": "Do not include credentials, tokens, cookies, or personal data here."
+}

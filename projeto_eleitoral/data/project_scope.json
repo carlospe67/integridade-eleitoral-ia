@@ -1,0 +1,12 @@
+{
+  "election": "2026",
+  "state": "RJ",
+  "initial_municipalities": ["Niteroi", "Sao Goncalo"],
+  "expansion_target": "Todos os municipios do estado do Rio de Janeiro",
+  "aggregation_level": "section",
+  "source": "TSE - Resultados 2026 - RJ - Relatorio de Totalizacao",
+  "source_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/relatorio_resultado_totalizacao/Relatorio_Resultado_Totalizacao_2026_RJ.zip",
+  "storage_uri": "Google Drive: MyDrive/projeto_eleitoral/data/raw",
+  "status": "download_confirmed_on_google_drive",
+  "notes": "O recorte inicial deve ser validado contra a disponibilidade dos dados oficiais de 2026 e seus identificadores municipais."
+}

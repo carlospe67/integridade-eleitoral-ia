@@ -1,0 +1,28 @@
+{
+  "dataset_name": "Resultados - 2026 - RJ - Relatorio de Totalizacao",
+  "source": "Tribunal Superior Eleitoral",
+  "source_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/relatorio_resultado_totalizacao/Relatorio_Resultado_Totalizacao_2026_RJ.zip",
+  "catalog_url": "https://dadosabertos.tse.jus.br/dataset/resultados-2026",
+  "election": "2026",
+  "state": "RJ",
+  "initial_municipalities": ["Niteroi", "Sao Goncalo"],
+  "aggregation_level": "section",
+  "content_type": "application/zip",
+  "content_length_bytes": 1295006,
+  "last_modified": "2026-10-06T16:42:58Z",
+  "sha256": "09185017b95536bdb10c5d5b78b740413f26ee1811952a638ac8aacd95062969",
+  "storage_uri": "Google Drive: MyDrive/projeto_eleitoral/data/raw",
+  "exploration_source": {
+    "provider": "Base dos Dados",
+    "dataset": "Eleições Brasileiras",
+    "table": "Resultados por Candidato e Seção Eleitoral",
+    "table_id": "451fc2d9-ffe7-4cd3-880b-3fe3784392e7",
+    "coverage": "1994-2026",
+    "estimated_full_table_size": "76.30 GB",
+    "access_mode": "BigQuery filtered query",
+    "download_full_table": false,
+    "status": "exploration_source_confirmed_query_pending"
+  },
+  "status": "download_confirmed_on_google_drive",
+  "notes": "Download confirmado no Colab diretamente para o Google Drive; o arquivo bruto não foi copiado para o computador."
+}
